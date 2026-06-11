@@ -1,0 +1,95 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.outer-swiper .swiper-pagination {
+  position: relative;   /* instead of absolute */
+  margin-top: 20px;     /* push dots further down */
+  text-align: center;   /* keep them centered */
+}
+.banner-swiper .swiper-pagination {
+  position: relative;   /* place outside, not absolute */
+  margin-top: 16px;     /* push dots below banner */
+  text-align: center;
+}
+
+.banner-swiper .swiper-pagination-bullet {
+  background: #ccc;     /* neutral inactive dot */
+  opacity: 0.7;
+}
+
+.banner-swiper .swiper-pagination-bullet-active {
+  background: #2563eb;  /* active dot in brand color */
+  opacity: 1;
+}
+/* Center align Swiper navigation arrows */
+.outer-swiper .swiper-button-next,
+.outer-swiper .swiper-button-prev {
+  top: 50%;                  /* vertical center */
+  transform: translateY(-50%);
+  color: #000;                /* arrow color */
+}
+
+/* Optional: bring arrows closer to product area */
+.outer-swiper .swiper-button-next {
+  right: 20px;                /* adjust horizontal position */
+}
+
+.outer-swiper .swiper-button-prev {
+  left: 20px;                 /* adjust horizontal position */
+}
+/* Style Swiper navigation arrows inside product carousel */
+.outer-swiper .swiper-button-next,
+.outer-swiper .swiper-button-prev {
+  top: 50%;                        /* vertical center */
+  transform: translateY(-50%);
+  width: 40px;                      /* button size */
+  height: 40px;
+  border-radius: 50%;               /* rounded shape */
+  background-color: rgba(0, 0, 0, 0.6); /* semi-transparent background */
+  color: #fff;                      /* arrow color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect */
+.outer-swiper .swiper-button-next:hover,
+.outer-swiper .swiper-button-prev:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Adjust horizontal positioning */
+.outer-swiper .swiper-button-next {
+  right: 20px;
+}
+
+.outer-swiper .swiper-button-prev {
+  left: 20px;
+}

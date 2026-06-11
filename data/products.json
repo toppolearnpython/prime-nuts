@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Classic Almonds",
+    "price": "₹100/- 250gm",
+    "images": ["/products/clasic-almonds-250gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GZ35GTFP",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Classic Almonds",
+    "price": "₹700/- 500gm",
+    "images": ["/products/clasic-almonds-500gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GNGSRYDG",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Classic Cashews",
+    "price": "₹700/- 200gm",
+    "images": ["/products/clasic-Cashews-200gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0GYLV3TRZ",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Classic Cashews",
+    "price": "₹700/- 400gm",
+    "images": ["/products/clasic-cashews-400gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0GNH14QMW",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Roasted & Salted Cashews",
+    "price": "₹700/- 200gm",
+    "images": ["/products/clasic-almonds-200gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0GHKK6HFP",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Roasted & Salted Cashews",
+    "price": "₹700/- 400gm",
+    "images": ["/products/clasic-almonds-400gm-01.png" ],
+    "amazonLink": null,
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Roasted & Slated Almonds",
+    "price": "₹700/- 250gm",
+    "images": ["/products/Roasted-&-Slated-Almonds-250gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GJDC5ZMK",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Roasted & Slated Almonds",
+    "price": "₹700/- 500gm",
+    "images": [ "/products/Roasted-&-Slated-Almonds-500gm-01.png" ],
+    "amazonLink": null,
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Peri Peri Cashews",
+    "price": "₹700/- 200gm",
+    "images": [ "/products/Peri-Peri-Cashews-200gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0GN3DL98R?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Peri Peri Cashews",
+    "price": "₹700/- 400gm",
+    "images": [ "/products/Peri-Peri-Cashews-400gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GZPTXH3D?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Peri Peri Almonds",
+    "price": "₹700/- 250gm",
+    "images": ["/products/Peri-Peri-Almonds-250gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0H11RP1L4",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Peri Peri Almonds",
+    "price": "₹700/- 500gm",
+    "images": ["/products/Peri-Peri-Almonds-500gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0H11S1383?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Endura Mix Chocolate",
+    "price": "₹700/- 250gm",
+    "images": ["/products/Endura-Mix-Chocolate-250gm-01.png"   ],
+    "amazonLink": "https://www.amazon.in/dp/B0GYJYW1YR?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Endura Mix Chocolate",
+    "price": "₹700/- 600gm",
+    "images": [      "/products/Endura-Mix-Chocolate-600gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GYJM9C68?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Endura Mix Vanilla",
+    "price": "₹700/- 250gm",
+    "images": [  "/products/Endura-Mix-Vanilla-250gm-01.png"    ],
+    "amazonLink": "https://www.amazon.in/dp/B0GYJLD1FG?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Endura Mix Vanilla",
+    "price": "₹700/- 600gm",
+    "images": [   "/products/Endura-Mix-Vanilla-600gm-01.png"    ],
+    "amazonLink": "https://www.amazon.in/dp/B0GYJX5GSW",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Endura Mix Natural",
+    "price": "₹700/- 500gm",
+    "images": [   "/products/Endura-Mix-Natural-500gm-01.png"    ],
+    "amazonLink": "https://www.amazon.in/dp/B0GKWR21B9?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Endura Mix Pro",
+    "price": "₹700/- 500gm",
+    "images": [      "/products/Endura-Mix-Pro-500gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0GS6X44RL",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Makhana Mix",
+    "price": "₹700/- 65gm",
+    "images": [  "/products/Makhana-Mix-65gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0GKWNJ4MR?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Makhana Mix",
+    "price": "₹700/- 100gm",
+    "images": [ "/products/Makhana-Mix-100gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GJMHYVPM?th=1",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Chocolate Makhana",
+    "price": "₹700/- 100gm",
+    "images": ["/products/Chocolate Makhana-100gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GX9GSQBW",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Peri Peri Makhana",
+    "price": "₹700/- 100gm",
+    "images": [ "/products/Peri-Peri-Makhana-100gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GZW68XWL",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "5 in 1 Seeds",
+    "price": "₹700/- 250gm",
+    "images": [ "/products/5-in-1-Seeds-250gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GR9F1SSC",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "NutraBlast",
+    "price": "₹700/- 600gm",
+    "images": [ "/products/NutraBlast-600gm-01.png"],
+    "amazonLink": "https://www.amazon.in/dp/B0GYJKKRWW",
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+
+  {
+    "name": "NutraBlast Pro",
+    "price": "₹700/- 600gm",
+    "images": [ "/products/NutraBlast-Pro-600gm-01.png" ],
+    "amazonLink": null,
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Makhana Mix",
+    "price": "₹700/- 15gm",
+    "images": [ "/products/Makhana-Mix-15gm-01.png" ],
+    "amazonLink": null,
+    "flipkartLink": null,
+    "blinkitLink": null
+  },
+  {
+    "name": "Almond Butter",
+    "price": "₹700/- 500gm",
+    "images": [ "/products/Almond-Butter-500gm-01.png" ],
+    "amazonLink": "https://www.amazon.in/dp/B0H2S5Y35P",
+    "flipkartLink": null,
+    "blinkitLink": null
+  }
+]
