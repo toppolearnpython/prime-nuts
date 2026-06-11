@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Navbar() {
   return (
-    <nav className="bg-white shadow-md px-6 py-4 flex justify-between items-center">
+    <nav style={{ backgroundColor: "#ebe0cc" }} className="shadow-md px-6 py-4 flex justify-between items-center">
       {/* Logo at top-left */}
       <div className="flex items-center">
         <Image
@@ -18,7 +18,7 @@ export default function Navbar() {
       </div>
 
       {/* Tagline */}
-      <p className="mt-2 text-lg">
+      <p className="mt-2 text-lg italic">
         Welcome to the home of wholesome, flavored snacking
       </p>
 
